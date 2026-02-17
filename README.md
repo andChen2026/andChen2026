@@ -4,7 +4,7 @@ I am currently aiming for roles in mission critical fields, including:
 - Brain Computing Interface (fNirs Mobile MRI) 🧠
 - Pharmacology (Computational Drug Development) 💊
 - Pathology (Comptutational Cancer Treatment) 🧫
-- Defense (Cyber Def.) 💻
+- Defense (Cyber Defense) 💻
 - Trans. & Logistics 🚊
 
 <!--
