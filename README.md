@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @andChen2026
-- 👀 I’m interested in learning computer science and biology...
-- 🌱 I’m currently learning linear algebra...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm Andrew, a CS major at Pitt with a current field of study in Applied AI/ML.
 
+I am currently aiming for mission critical fields, including:
+- Brain Computing Interface (fNirs) 🧠
+- Pharmacology (Drug Dev.) 💊
+- Pathology (Cancer Treat.) 🧫
+- Defense (Cyber Def.) 💻
+- Trans. & Logistics 🚊
+- 
 <!---
 andChen2026/andChen2026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
