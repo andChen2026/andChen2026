@@ -5,7 +5,7 @@ I am currently aiming for roles in mission critical fields, including:
 - Pharmacology (Computational Drug Development) 💊
 - Pathology (Comptutational Cancer Treatment) 🧫
 - Defense (Cyber Defense) 💻
-- Trans. & Logistics 🚊
+- Transportation & Logistics (AI-Powered Railway Systems) 🚊
 
 <!--
 andChen2026/andChen2026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
