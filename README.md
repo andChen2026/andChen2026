@@ -1,7 +1,6 @@
 I'm Andrew, a CS major at Pitt with a current field of study in Applied AI/ML.
 
 I am currently aiming for roles in biomedical fields, including:
-- NeuroAI 🧠
 - Medicine 💊
 - Imaging 🧫
 - Genomics 🧬
