@@ -1,6 +1,6 @@
 I'm Andrew, a recent CS graduate at Pitt with a current field of study in Applied AI/ML interested in applying computational techniques in healthcare systems.
 
-As a Biomedical Informatics Master's student at Stony Brook University, I am eager to apply my computational skills to skills in the field such as Genomics and Imaging. I welcome a discussion and potential for collaboration, contact me at andew73885@gmail.com or andrew.chen.14@stonybrook.edu
+As a Biomedical Informatics Master's student at Stony Brook University, I am eager to apply my computational skills to skills in the field such as Genomics and Imaging. I welcome a discussion and potential for collaboration, contact me at andew73885@gmail.com or andrew.yanxiang.chen@stonybrook.edu
 
 In my free time, I enjoy playing Real-Time Strategy games such as Civilization, Stellaris, REDCON and read Sci-Fi novels in my free time. I am also an avid camping enthusiast and am looking for the next site!
 
